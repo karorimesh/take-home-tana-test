@@ -1,0 +1,9 @@
+1. "ABCD"
+    "AABCDA ABCDZADC ABCDBCA ABCDABDCA"
+2. result: 10
+    array: 1 2 3 4 5
+3.  1 2 3
+4. "Apple Computer Apple Bag"
+5. 1 2 3 1 4 5 2
+6. "hi there care to discuss algorithm basis or how to solve algorithm or"
+7. "ID_A01->ID_A02->ID_A03->ID_A04->ID_A05->ID_A06->null
